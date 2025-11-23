@@ -6,7 +6,7 @@ I enjoy building modern, responsive web applications and focusing on clean archi
 💻I build web apps using **React, TypeScript, Redux Toolkit, SCSS Modules, React Router, and Framer Motion**, integrating **REST APIs** and **Firebase (NoSQL)** when needed.
 
 ⚙**I develop backend features with Node/Express in my own projects, improving my ability to build complete Full-Stack applications.**
-<br/>
+<br/><br/>
 💼 **Selected Projects**
 -  **Interactive Matrix Quiz** – RWD quiz app *(React/TS, Redux, REST API, Firebase, Framer Motion)*  
    https://bit.ly/Interactive-Matrix-Quiz  
