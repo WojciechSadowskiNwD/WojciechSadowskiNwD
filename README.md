@@ -3,11 +3,11 @@
 **Front-End Developer (React + TypeScript)** with a B.Eng. in Computer Science.  
 I enjoy building modern, responsive web applications and focusing on clean architecture, readable code, and good UX.
 
-I build web apps using **React, TypeScript, Redux Toolkit, SCSS Modules, React Router, and Framer Motion**, integrating **REST APIs** and **Firebase (NoSQL)** when needed.
+💻I build web apps using **React, TypeScript, Redux Toolkit, SCSS Modules, React Router, and Framer Motion**, integrating **REST APIs** and **Firebase (NoSQL)** when needed.
 
-**I develop backend features with Node/Express in my own projects, improving my ability to build complete Full-Stack applications.**
+⚙**I develop backend features with Node/Express in my own projects, improving my ability to build complete Full-Stack applications.**
 
-**Selected Projects**
+💼**Selected Projects**
 -  **Interactive Matrix Quiz** – RWD quiz app *(React/TS, Redux, REST API, Firebase, Framer Motion)*  
    https://bit.ly/Interactive-Matrix-Quiz  
 -  **Gardens & Cleaning** – Landing page + mailer backend *(React/TS, Node/Express, RTK)*  
@@ -18,6 +18,6 @@ I build web apps using **React, TypeScript, Redux Toolkit, SCSS Modules, React R
    *optional link if stable*
 
 **Let’s connect:**  
-wojciechnwd@gmail.com • 🔗 [LinkedIn](https://tinyurl.com/WSadowski)
+🔗 wojciechnwd@gmail.com • 🔗 [LinkedIn](https://tinyurl.com/WSadowski)
 
 Open to **remote, hybrid, or relocation-based Junior opportunities.**
