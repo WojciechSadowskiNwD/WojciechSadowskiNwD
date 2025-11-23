@@ -1,14 +1,23 @@
 # 👋 Hi, I'm Wojciech
 
 **Front-End Developer (React + TypeScript)** with a B.Eng. in Computer Science.  
-I enjoy building modern, responsive web applications and learning new tools.
+I enjoy building modern, responsive web applications and focusing on clean architecture, readable code, and good UX.
 
-- 🔭 Current focus: React, TypeScript, Redux Toolkit, SCSS, Framer Motion  
-- 🌱 Learning: Next.js and testing with Jest / React Testing Library  
-- 💻 Projects:
-  - [Interactive Matrix Quiz](https://bit.ly/Interactive-Matrix-Quiz) – RWD quiz app (React/TS, Redux, Firebase, Framer Motion)
-  - [Ogrody i Porządek](https://bit.ly/Gardens_Cleaning) – Landing page + mailer (React/TS, Node/Express, RTK)
-  - [My Enjoyable Shopping](https://tinyurl.com/My-enjoyable) – Shopping lists (React, Context API, Router, SCSS)
-- 📫 How to reach me: [LinkedIn](https://tinyurl.com/WSadowski) • wojciechnwd@gmail.com  
+I build web apps using **React, TypeScript, Redux Toolkit, SCSS Modules, React Router, and Framer Motion**, integrating **REST APIs** and **Firebase (NoSQL)** when needed.
 
----
+**I develop backend features with Node/Express in my own projects, improving my ability to build complete Full-Stack applications.**
+
+**Selected Projects**
+-  **Interactive Matrix Quiz** – RWD quiz app *(React/TS, Redux, REST API, Firebase, Framer Motion)*  
+   https://bit.ly/Interactive-Matrix-Quiz  
+-  **Gardens & Cleaning** – Landing page + mailer backend *(React/TS, Node/Express, RTK)*  
+   https://bit.ly/Gardens_Cleaning  
+-  **My Enjoyable Shopping** – Shopping list manager *(React, Context API, Router, SCSS)*  
+   https://tinyurl.com/My-enjoyable  
+-  **Vears Shop** – Small e-commerce deployed on shared hosting *(PHP + MySQL)*  
+   *optional link if stable*
+
+**Let’s connect:**  
+wojciechnwd@gmail.com • 🔗 [LinkedIn](https://tinyurl.com/WSadowski)
+
+Open to **remote, hybrid, or relocation-based Junior opportunities.**
