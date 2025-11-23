@@ -14,8 +14,9 @@ I enjoy building modern, responsive web applications and focusing on clean archi
    https://bit.ly/Gardens_Cleaning  
 -  **My Enjoyable Shopping** – Responsive Shopping list manager *(React, Context API, Router, SCSS)*  
    https://tinyurl.com/My-enjoyable  
--  **Vears Shop** – Engineering thesis project. Desktop-first e-commerce (PHP + MySQL) deployed on shared hosting. 
+-  **Vears Shop** – Engineering thesis project. Desktop-first e-commerce (PHP + MySQL) deployed on shared hosting.<br/>
    https://vears.j.pl
+
 
 **Let’s connect:**  
 🔗 wojciechnwd@gmail.com • 🔗 [LinkedIn](https://tinyurl.com/WSadowski)
