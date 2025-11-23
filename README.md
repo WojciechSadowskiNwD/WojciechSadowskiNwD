@@ -7,14 +7,14 @@ I enjoy building modern, responsive web applications and focusing on clean archi
 
 ⚙**I develop backend features with Node/Express in my own projects, improving my ability to build complete Full-Stack applications.**
 
-💼**Selected Projects**
+💼 **Selected Projects**
 -  **Interactive Matrix Quiz** – RWD quiz app *(React/TS, Redux, REST API, Firebase, Framer Motion)*  
    https://bit.ly/Interactive-Matrix-Quiz  
--  **Gardens & Cleaning** – Landing page + mailer backend *(React/TS, Node/Express, RTK)*  
+-  **Gardens & Cleaning** – Responsive Landing page + mailer backend *(React/TS, Node/Express, RTK)*  
    https://bit.ly/Gardens_Cleaning  
--  **My Enjoyable Shopping** – Shopping list manager *(React, Context API, Router, SCSS)*  
+-  **My Enjoyable Shopping** – Responsive Shopping list manager *(React, Context API, Router, SCSS)*  
    https://tinyurl.com/My-enjoyable  
--  **Vears Shop** – Small e-commerce deployed on shared hosting - Engineering thesis project. *(PHP + MySQL)*  
+-  **Vears Shop** – Engineering thesis project. Desktop-first e-commerce (PHP + MySQL) deployed on shared hosting. 
    https://vears.j.pl
 
 **Let’s connect:**  
