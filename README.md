@@ -6,7 +6,7 @@ I enjoy building modern, responsive web applications and focusing on clean archi
 💻I build web apps using **React, TypeScript, Redux Toolkit, SCSS Modules, React Router, and Framer Motion**, integrating **REST APIs** and **Firebase (NoSQL)** when needed.
 
 ⚙**I develop backend features with Node/Express in my own projects, improving my ability to build complete Full-Stack applications.**
-
+<br/>
 💼 **Selected Projects**
 -  **Interactive Matrix Quiz** – RWD quiz app *(React/TS, Redux, REST API, Firebase, Framer Motion)*  
    https://bit.ly/Interactive-Matrix-Quiz  
@@ -17,7 +17,7 @@ I enjoy building modern, responsive web applications and focusing on clean archi
 -  **Vears Shop** – Engineering thesis project. Desktop-first e-commerce (PHP + MySQL) deployed on shared hosting.<br/>
    https://vears.j.pl
 
-
+<br/>
 **Let’s connect:**  
 🔗 wojciechnwd@gmail.com • 🔗 [LinkedIn](https://tinyurl.com/WSadowski)
 
